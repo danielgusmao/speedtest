@@ -6,14 +6,14 @@ Este Projeto usa o SpeedTest https://github.com/sivel/speedtest-cli embarcado no
 
 Com menos de 80 Megas
 
-# Para fazer o pull do container.
+# Fazer o pull do container.
 
 docker pull danielgusmao/speedtest
 
-# Para execultar.
+# Execultar.
 
 docker --rm danielgusmao/speedtest
 
-# Para o menu de ajuda do SpeedTest.
+# Menu de ajuda do SpeedTest.
 
 docker --rm danielgusmao/speedtest --help

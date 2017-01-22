@@ -2,7 +2,7 @@
 
 Docker SpeedTest e Alpine Linux
 
-Este Projeto usa o SpeedTest https://github.com/sivel/speedtest-cli embarcado no docker usando a distribuição Alpine Linux.
+Este Projeto usa o SpeedTest https://github.com/sivel/speedtest-cli no docker com a distribuição Alpine Linux.
 
 Com menos de 80 Megas
 

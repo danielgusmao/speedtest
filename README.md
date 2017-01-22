@@ -12,8 +12,8 @@ docker pull danielgusmao/speedtest
 
 # Execultar.
 
-docker --rm danielgusmao/speedtest
+docker run --rm danielgusmao/speedtest
 
 # Menu de ajuda do SpeedTest.
 
-docker --rm danielgusmao/speedtest --help
+docker run --rm danielgusmao/speedtest --help

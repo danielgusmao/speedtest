@@ -22,7 +22,7 @@ Com menos de 80 Megas
     Download: 3.64 Mbit/s
     Upload: 6.40 Mbit/s
     
-    
+    :: 
    
     docker run --rm danielgusmao/speedtest --share
     
